@@ -116,7 +116,7 @@
    </a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Software_Tools.gif?raw=true" width=5%>  Software & Tools
+ ### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/Software_Tools.gif?raw=true" width=5%>  Software & Tools
  
 <p align="center">
   &emsp;
