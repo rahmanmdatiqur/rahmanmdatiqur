@@ -7,9 +7,9 @@
 <br>
 <h4 align="center">Visitor's count :eyes:</h4>
 
-<p align="center"><img src="https://profile-counter.glitch.me/{shaonkhalifa}/count.svg" alt="shaonkhalifa :: Visitor's Count" /></p>
+<p align="center"><img src="https://profile-counter.glitch.me/{rahmanmdatiqur}/count.svg" alt="rahmanmdatiqur :: Visitor's Count" /></p>
 <!--<p align="center"> 
-	<img src="https://komarev.com/ghpvc/?username=shaonkhalifa&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
+	<img src="https://komarev.com/ghpvc/?username=rahmanmdatiqur&label=Profile%20views&color=0047AB&style=plastic?" alt="7oSkaaa" height=25px, width=160px/> 
 	
 	<!---
 		<a href = "https://commits.top/egypt.html" target="_blank">
@@ -21,7 +21,7 @@
 	</a>-->
 
 </p>-->
-## <picture><img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/about_me.gif?raw=true" width = 50px></picture> About me
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -43,7 +43,7 @@
 <div align="center" width=100%>
   <a href=""><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-codeforces-programming-competitions-and-contests-programming-community-logo-shadow-tal-revivo.png" alt="Code Forces" width=6%/></a>
 	  &emsp; 
-	<a href="https://leetcode.com/ShaonKhalifa/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
+	<a href="https://leetcode.com/rahmanmdatiqur/"><img src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/50/000000/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-shadow-tal-revivo.png" alt="LeetCode" width=%6/></a>
 	  &emsp; 
 	<a href=""><img src="https://i.ibb.co/Q9WSjDB/logo.png" alt="AtCoder" width=6%/></a>
 	  &emsp; 
@@ -55,7 +55,7 @@
 </div>
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="3%"> My Skills
 
-### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Programming_Languages.gif?raw=true" width=3%> Programming languages
+### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/Programming_Languages.gif?raw=true" width=3%> Programming languages
 
 <p align="center"> 
   &emsp; 
@@ -80,7 +80,7 @@
   </a>-->
 </p>
 
-### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Front_End.gif?raw=true" width=3%>  Frontend & Backend Development
+### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/Front_End.gif?raw=true" width=3%>  Frontend & Backend Development
 <p align="center"> 
   &emsp;
   <a href="https://www.w3.org/" target="_blank"> 
@@ -151,7 +151,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Jira-0052CC?style=plastic&logo=Jira&logoColor=white"/></a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/IDEs.gif?raw=true" width=3%> IDEs
+ ### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/IDEs.gif?raw=true" width=3%> IDEs
  
 <p align="center">
 	  &emsp;
@@ -166,7 +166,7 @@
     <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/CP_PS.gif?raw=true" width=3%> Competitive Programming & Problem Solving
+ ### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/CP_PS.gif?raw=true" width=3%> Competitive Programming & Problem Solving
  
 <p align="center">
   &emsp;
@@ -183,7 +183,7 @@
     <a href="#"><img alt = "Codin Game" src="https://img.shields.io/badge/codingame-%23F2BB13.svg?&style=plastic&logo=codingame&logoColor=black" /></a>
 </p>
 
- ### <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/OS.gif?raw=true" width=5%>  Operating Systems
+ ### <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/OS.gif?raw=true" width=5%>  Operating Systems
  
 <p align="center">
 	  &emsp;
@@ -205,13 +205,13 @@
 	<a href="https://github.com/piyushsuthar/github-readme-quotes"> <img alt = "Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming">
 </p>
 
-## <picture> <img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## <picture> <img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
 ----	
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=shaonkhalifa&theme=tokyonight_duo" alt="shaonkhalifa" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rahmanmdatiqur&theme=tokyonight_duo" alt="rahmanmdatiqur" /></p>
 
 </details>
   
@@ -221,8 +221,8 @@
 	
 <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="Md.Shaon Khalifa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=shaonkhalifa&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=shaonkhalifa&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="shaonkhalifa" height="230px"/>
+	    <img alt="Md.Atiqur Rahman's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rahmanmdatiqur&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=rahmanmdatiqur&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="rahmanmdatiqur" height="230px"/>
 <br/>
 
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -233,7 +233,7 @@
 
 ----
 	
-<!--<Md.Shaon's github activity graph(https://github-readme-activity-graph.cyclic.app/graph?username=shaonkhalifa&theme=github)-->
+<!--<Md.Atiqur's github activity graph(https://github-readme-activity-graph.cyclic.app/graph?username=rahmanmdatiqur&theme=github)-->
 <!--(https://github.com/7oSkaaa/github-readme-activity-graph)-->
 
  
@@ -243,7 +243,7 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shaonkhalifa&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="shaonkhalifa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rahmanmdatiqur&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="rahmanmdatiqur" /></a> </p>
 
 <!--[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)-->
 	
@@ -331,5 +331,5 @@
 ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
-	<img src = "https://github.com/shaonkhalifa/shaonkhalifa/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
+	<img src = "https://github.com/rahmanmdatiqur/rahmanmdatiqur/blob/main/github-contribution-grid-snake.svg" alt = "Snake Game"/>
 </p>
